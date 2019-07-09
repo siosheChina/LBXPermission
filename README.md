@@ -4,7 +4,7 @@ iOS常用权限获取
 
 ![image](https://gitee.com/lbxia/imageSource/raw/master/Permission.gif)
 
-
+#原来基础上添加了个通知权限类型
 
 调用接口简单，易用,如下面相机和定位权限判断及获取
 
